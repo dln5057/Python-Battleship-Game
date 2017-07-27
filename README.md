@@ -22,3 +22,17 @@ mad skills using command line
 4. run `python battleship.py`
 
 5. The game will start running after you run the `python` code
+
+
+## Built With
+
+* Python
+* Atom text editor
+
+## Authors
+
+*Donnie Nowels
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
