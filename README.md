@@ -31,7 +31,7 @@ mad skills using command line
 
 ## Authors
 
-*Donnie Nowels
+* Donnie Nowels
 
 ## License
 
