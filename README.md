@@ -13,12 +13,12 @@ mad skills using command line
 
 ### Installing
 
-Create a folder to store the Battle Ship program.
+1. Create a folder to store the Battle Ship program.
 
-Save program as `battleship.py`.
+2. Save program as `battleship.py`.
 
-`cd` into the folder you saved the program to in your command line.  
+3. `cd` into the folder you saved the program to in your command line.  
 
-run `python battleship.py`
+4. run `python battleship.py`
 
-The game will start running after you run the `python` code
+5. The game will start running after you run the `python` code
